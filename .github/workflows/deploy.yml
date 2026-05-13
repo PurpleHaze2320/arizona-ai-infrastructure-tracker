@@ -26,20 +26,18 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: npm
+          node-version: 22
 
-      - name: Pin npm version
-        run: npm install -g npm@10.8.2
-
-      - name: Clean npm cache
-        run: npm cache clean --force
+      - name: Enable pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@9.15.4 --activate
 
       - name: Install dependencies
-        run: npm ci --legacy-peer-deps --no-audit --no-fund
+        run: pnpm install --no-frozen-lockfile
 
       - name: Build
-        run: npm run build
+        run: pnpm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
