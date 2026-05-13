@@ -1,0 +1,464 @@
+[
+  {
+    "id": "project-baccara-west-valley",
+    "name": "Project Baccara",
+    "city": "Unincorporated Maricopa County / West Valley",
+    "county": "Maricopa",
+    "region": "West Valley / near Glendale and Surprise",
+    "status": "County permit approved / active public scrutiny",
+    "category": "Proposed data center campus",
+    "coordinates": {
+      "x": 24,
+      "y": 45
+    },
+    "sourceGrade": "B",
+    "lastUpdated": "2026-05-13",
+    "summary": "Large West Valley data center proposal near Luke Air Force Base that local reporting says includes two data centers and on-site gas-fired generation. The project is a key test case for local permitting, military compatibility, community response, and utility-scale infrastructure planning.",
+    "publicFacts": [
+      "Reported 160-acre site near Surprise/Glendale area",
+      "ABC15 reported a key permit approval by Maricopa County supervisors",
+      "KJZZ reported project documents described a 700 MW gas power plant",
+      "Community concerns include groundwater, air quality, pollution, proximity, and public-risk questions"
+    ],
+    "benefitsClaimed": [
+      "Large capital investment",
+      "construction activity",
+      "potential tax base",
+      "technology infrastructure growth"
+    ],
+    "concernsRaised": [
+      "power generation",
+      "groundwater",
+      "air quality",
+      "noise/traffic",
+      "public transparency",
+      "nearby Luke Air Force Base"
+    ],
+    "infrastructureReadiness": 62,
+    "powerDemandComplexity": 96,
+    "waterPlanningStrength": 42,
+    "economicUpside": 88,
+    "communitySensitivity": 94,
+    "transparency": 64,
+    "policyMomentum": 91,
+    "tags": [
+      "Project Baccara",
+      "West Valley",
+      "Maricopa County",
+      "large load",
+      "gas generation"
+    ],
+    "sources": [
+      {
+        "label": "ABC15",
+        "url": "https://www.abc15.com/news/local-news/very-disappointed-maricopa-county-supervisors-approve-controversial-data-center"
+      },
+      {
+        "label": "KJZZ",
+        "url": "https://www.kjzz.org/politics/2026-05-06/controversial-data-center-project-in-west-valley-near-luke-air-force-base-clears-regulatory-hurdle"
+      },
+      {
+        "label": "Arizona's Family",
+        "url": "https://www.azfamily.com/2026/05/07/massive-data-center-approved-near-luke-air-force-base-despite-opposition/"
+      }
+    ]
+  },
+  {
+    "id": "halo-vista-north-phoenix",
+    "name": "Halo Vista / TSMC Corridor",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "region": "North Phoenix / near TSMC campus",
+    "status": "Under development / data-center limits added",
+    "category": "Mixed-use innovation district with data-center restrictions",
+    "coordinates": {
+      "x": 49,
+      "y": 23
+    },
+    "sourceGrade": "B",
+    "lastUpdated": "2026-05-13",
+    "summary": "Massive North Phoenix development adjacent to TSMC where local reporting says Phoenix adjusted agreement terms to restrict some data-center growth while preserving a broader innovation and commercial district vision.",
+    "publicFacts": [
+      "ABC15 reported Phoenix adjusted terms tied to data-center growth at the 2,300-acre development",
+      "Arizona Commerce Authority announced a March 2026 groundbreaking for Halo Vista",
+      "Project is positioned around TSMC and a larger science, innovation, and commercial ecosystem"
+    ],
+    "benefitsClaimed": [
+      "semiconductor ecosystem growth",
+      "commercial space",
+      "construction jobs",
+      "innovation district branding"
+    ],
+    "concernsRaised": [
+      "land-use balance",
+      "data-center saturation",
+      "power planning",
+      "neighborhood compatibility"
+    ],
+    "infrastructureReadiness": 78,
+    "powerDemandComplexity": 74,
+    "waterPlanningStrength": 58,
+    "economicUpside": 92,
+    "communitySensitivity": 66,
+    "transparency": 75,
+    "policyMomentum": 86,
+    "tags": [
+      "Halo Vista",
+      "TSMC",
+      "Phoenix",
+      "semiconductors",
+      "zoning"
+    ],
+    "sources": [
+      {
+        "label": "ABC15",
+        "url": "https://www.abc15.com/news/business/phoenix-restricts-data-center-growth-at-2-300-acre-development"
+      },
+      {
+        "label": "Arizona Commerce Authority",
+        "url": "https://www.azcommerce.com/news-events/news/2026/3/halo-vista-groundbreaking/"
+      }
+    ]
+  },
+  {
+    "id": "acc-large-load-workshop",
+    "name": "ACC Large Load / Data Center Workshop",
+    "city": "Phoenix",
+    "county": "Statewide",
+    "region": "Arizona statewide utility policy",
+    "status": "Workshop held / policy development signal",
+    "category": "Regulatory / utility planning",
+    "coordinates": {
+      "x": 57,
+      "y": 42
+    },
+    "sourceGrade": "A",
+    "lastUpdated": "2026-05-13",
+    "summary": "Arizona Corporation Commission workshop focused on large-load users such as data centers and how to integrate them into the electric grid without unfairly shifting costs to other ratepayers.",
+    "publicFacts": [
+      "ACC announced an April 16, 2026 workshop on large-load users and data center development",
+      "Chairman Myers' summary framed the issue around integrating large users into the grid without increasing costs for other ratepayers",
+      "Docket reference in ACC materials: E-00000A-25-0069"
+    ],
+    "benefitsClaimed": [
+      "grid-planning visibility",
+      "statewide stakeholder input",
+      "ratepayer-cost review",
+      "clearer utility policy"
+    ],
+    "concernsRaised": [
+      "cost allocation",
+      "transmission upgrades",
+      "resource adequacy",
+      "interconnection timelines"
+    ],
+    "infrastructureReadiness": 72,
+    "powerDemandComplexity": 90,
+    "waterPlanningStrength": 50,
+    "economicUpside": 64,
+    "communitySensitivity": 58,
+    "transparency": 88,
+    "policyMomentum": 93,
+    "tags": [
+      "ACC",
+      "large load",
+      "utilities",
+      "ratepayers",
+      "grid"
+    ],
+    "sources": [
+      {
+        "label": "ACC workshop announcement",
+        "url": "https://azcc.gov/news/home/2026/04/10/acc-to-host-workshop-on-large-load-users-data-center-development"
+      },
+      {
+        "label": "ACC workshop highlights",
+        "url": "https://azcc.gov/news/home/2026/04/20/acc-large-load-data-center-workshop-highlights"
+      },
+      {
+        "label": "Chairman Myers highlights",
+        "url": "https://azcc.gov/news/home/2026/04/17/chairman-myers--highlights-from-large-load-users-development-workshop"
+      }
+    ]
+  },
+  {
+    "id": "tucson-data-center-udc-amendment",
+    "name": "Tucson Large-Scale Data Center Rules",
+    "city": "Tucson",
+    "county": "Pima",
+    "region": "Tucson / Pima County",
+    "status": "Proposed zoning amendment / public review",
+    "category": "Local regulation",
+    "coordinates": {
+      "x": 54,
+      "y": 84
+    },
+    "sourceGrade": "A",
+    "lastUpdated": "2026-05-13",
+    "summary": "Tucson is reviewing land-use standards for large-scale data centers, including public review, noise, setbacks, generator-use limits, and water/energy disclosure concepts.",
+    "publicFacts": [
+      "City page says Mayor and Council directed staff to develop regulations for large-scale data centers",
+      "Local reporting says proposals include energy/water disclosures, noise study, setbacks, public review, and location guidelines",
+      "City materials emphasize the role and limits of zoning"
+    ],
+    "benefitsClaimed": [
+      "clearer rules",
+      "public review process",
+      "predictability for developers",
+      "community safeguards"
+    ],
+    "concernsRaised": [
+      "water usage",
+      "energy use",
+      "noise",
+      "setbacks",
+      "generator restrictions",
+      "environmental compatibility"
+    ],
+    "infrastructureReadiness": 67,
+    "powerDemandComplexity": 76,
+    "waterPlanningStrength": 78,
+    "economicUpside": 58,
+    "communitySensitivity": 82,
+    "transparency": 89,
+    "policyMomentum": 84,
+    "tags": [
+      "Tucson",
+      "zoning",
+      "water disclosure",
+      "noise",
+      "setbacks"
+    ],
+    "sources": [
+      {
+        "label": "City of Tucson",
+        "url": "https://www.tucsonaz.gov/Departments/Planning-Development-Services/Planning-Initiatives/Data-Centers-Unified-Development-Code-Amendment"
+      },
+      {
+        "label": "KOLD",
+        "url": "https://www.kold.com/2026/05/07/tucson-planning-commission-reviews-proposed-data-center-regulations/"
+      },
+      {
+        "label": "KGUN9",
+        "url": "https://www.kgun9.com/news/community-inspired-journalism/midtown-news/data-crunch-planning-commission-hears-proposals-for-new-data-center-zoning-code"
+      }
+    ]
+  },
+  {
+    "id": "arizona-data-center-market-signal",
+    "name": "Arizona Data Center Market Signal",
+    "city": "Statewide",
+    "county": "Statewide",
+    "region": "Arizona statewide",
+    "status": "Market growth signal",
+    "category": "Market / capacity signal",
+    "coordinates": {
+      "x": 38,
+      "y": 55
+    },
+    "sourceGrade": "B",
+    "lastUpdated": "2026-05-13",
+    "summary": "Arizona is widely reported as a major U.S. data-center market with significant operating and planned capacity, making it a high-value region for tracking power, water, zoning, jobs, and transparency.",
+    "publicFacts": [
+      "Axios reported Arizona had 98 operating data centers and 86 planned or under construction as of early 2026, citing Pew analysis",
+      "Growth is increasingly tied to power availability, public policy, and community response"
+    ],
+    "benefitsClaimed": [
+      "tech-sector visibility",
+      "infrastructure jobs",
+      "tax base",
+      "cloud and AI ecosystem"
+    ],
+    "concernsRaised": [
+      "energy availability",
+      "water usage",
+      "ratepayer impact",
+      "community opposition",
+      "land-use conflicts"
+    ],
+    "infrastructureReadiness": 75,
+    "powerDemandComplexity": 85,
+    "waterPlanningStrength": 55,
+    "economicUpside": 86,
+    "communitySensitivity": 73,
+    "transparency": 69,
+    "policyMomentum": 80,
+    "tags": [
+      "Arizona",
+      "market signal",
+      "Pew",
+      "planned capacity",
+      "AI infrastructure"
+    ],
+    "sources": [
+      {
+        "label": "Axios Phoenix",
+        "url": "https://www.axios.com/local/phoenix/2026/04/28/arizona-data-center-hotspot-pew-research-center"
+      },
+      {
+        "label": "Rose Law Group Reporter summary",
+        "url": "https://roselawgroupreporter.com/2026/04/arizona-one-of-the-top-states-for-data-centers/"
+      }
+    ]
+  },
+  {
+    "id": "phoenix-data-center-zoning-pressure",
+    "name": "Phoenix Data Center Zoning Pressure",
+    "city": "Phoenix",
+    "county": "Maricopa",
+    "region": "Phoenix metro",
+    "status": "Policy pressure / legal challenges reported",
+    "category": "Local zoning / legal pressure",
+    "coordinates": {
+      "x": 46,
+      "y": 40
+    },
+    "sourceGrade": "B",
+    "lastUpdated": "2026-05-13",
+    "summary": "Phoenix has faced legal and policy pressure around data-center siting rules, creating a tracker-worthy signal for how city-level regulation affects large-scale infrastructure development.",
+    "publicFacts": [
+      "Arizona's Family reported landowners and developers challenged Phoenix data-center restrictions",
+      "The dispute centers on zoning limits, neighborhood protection, property rights, and possible compensation under Proposition 207"
+    ],
+    "benefitsClaimed": [
+      "neighborhood compatibility",
+      "clear siting rules",
+      "planning predictability"
+    ],
+    "concernsRaised": [
+      "property rights",
+      "development restrictions",
+      "legal exposure",
+      "land-use conflict"
+    ],
+    "infrastructureReadiness": 65,
+    "powerDemandComplexity": 70,
+    "waterPlanningStrength": 52,
+    "economicUpside": 72,
+    "communitySensitivity": 79,
+    "transparency": 71,
+    "policyMomentum": 83,
+    "tags": [
+      "Phoenix",
+      "zoning",
+      "legal challenge",
+      "Proposition 207",
+      "land use"
+    ],
+    "sources": [
+      {
+        "label": "Arizona's Family",
+        "url": "https://www.azfamily.com/2026/03/26/phoenix-faces-growing-legal-pressure-over-new-data-center-rules/"
+      }
+    ]
+  },
+  {
+    "id": "chandler-ai-data-center-rejection",
+    "name": "Chandler AI Data Center Rejection",
+    "city": "Chandler",
+    "county": "Maricopa",
+    "region": "Southeast Valley",
+    "status": "Rejected / historical policy signal",
+    "category": "Council decision / precedent",
+    "coordinates": {
+      "x": 61,
+      "y": 57
+    },
+    "sourceGrade": "B",
+    "lastUpdated": "2026-05-13",
+    "summary": "Chandler's rejection of a proposed AI data center is a useful precedent signal for tracking local control, lobbying pressure, resident concerns, and city-level cost-benefit analysis.",
+    "publicFacts": [
+      "Politico reported Chandler rejected a rezoning proposal for a 422,000-square-foot AI data center and business complex",
+      "Community concerns included water, noise, power, and local benefit questions"
+    ],
+    "benefitsClaimed": [
+      "possible investment",
+      "AI infrastructure growth",
+      "commercial development"
+    ],
+    "concernsRaised": [
+      "water",
+      "noise",
+      "power",
+      "community fit",
+      "unclear local benefit"
+    ],
+    "infrastructureReadiness": 56,
+    "powerDemandComplexity": 77,
+    "waterPlanningStrength": 46,
+    "economicUpside": 54,
+    "communitySensitivity": 88,
+    "transparency": 67,
+    "policyMomentum": 62,
+    "tags": [
+      "Chandler",
+      "AI data center",
+      "rejected",
+      "zoning",
+      "community response"
+    ],
+    "sources": [
+      {
+        "label": "Politico",
+        "url": "https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543"
+      }
+    ]
+  },
+  {
+    "id": "project-blue-tucson-pima",
+    "name": "Project Blue / Pima County Signal",
+    "city": "Tucson area / Pima County",
+    "county": "Pima",
+    "region": "Southern Arizona",
+    "status": "Historical controversy / water-policy catalyst",
+    "category": "Water policy / project signal",
+    "coordinates": {
+      "x": 41,
+      "y": 76
+    },
+    "sourceGrade": "B",
+    "lastUpdated": "2026-05-13",
+    "summary": "Project Blue became a major Arizona example of how proposed data centers can trigger water-use scrutiny, annexation conflict, utility questions, and calls for stronger public-transparency requirements.",
+    "publicFacts": [
+      "AP reported Tucson enacted a large-water-user ordinance after backlash around Project Blue",
+      "The ordinance requires detailed applications and water conservation plans for large water users connecting to city water",
+      "Axios reported Project Blue later remained a Pima County issue after Tucson declined annexation talks"
+    ],
+    "benefitsClaimed": [
+      "potential investment",
+      "technology campus",
+      "infrastructure development"
+    ],
+    "concernsRaised": [
+      "water demand",
+      "utility impacts",
+      "transparency",
+      "annexation",
+      "environmental compatibility"
+    ],
+    "infrastructureReadiness": 52,
+    "powerDemandComplexity": 84,
+    "waterPlanningStrength": 73,
+    "economicUpside": 62,
+    "communitySensitivity": 92,
+    "transparency": 61,
+    "policyMomentum": 78,
+    "tags": [
+      "Project Blue",
+      "Tucson",
+      "Pima County",
+      "water ordinance",
+      "large water user"
+    ],
+    "sources": [
+      {
+        "label": "Associated Press",
+        "url": "https://apnews.com/article/42c1e554b02b4293685a08a4574db9f0"
+      },
+      {
+        "label": "Axios Phoenix",
+        "url": "https://www.axios.com/local/phoenix/2025/12/08/project-blue-data-center-clears-vote"
+      }
+    ]
+  }
+]
