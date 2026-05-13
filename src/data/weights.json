@@ -1,0 +1,18 @@
+{
+  "planningComplexity": {
+    "powerDemandComplexity": 0.28,
+    "communitySensitivity": 0.22,
+    "policyMomentum": 0.18,
+    "infrastructureReadiness_inverse": 0.12,
+    "waterPlanningStrength_inverse": 0.12,
+    "transparency_inverse": 0.08
+  },
+  "balancedOpportunity": {
+    "economicUpside": 0.32,
+    "infrastructureReadiness": 0.22,
+    "transparency": 0.18,
+    "waterPlanningStrength": 0.12,
+    "policyMomentum": 0.1,
+    "communitySensitivity_inverse": 0.06
+  }
+}

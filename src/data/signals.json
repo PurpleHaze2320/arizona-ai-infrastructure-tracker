@@ -1,0 +1,38 @@
+[
+  {
+    "id": "water-reuse-credit",
+    "date": "2026-05-13",
+    "type": "National policy",
+    "headline": "Federal attention on data-center water reuse",
+    "summary": "A national water-reuse incentive discussion creates a relevant policy signal for Arizona because cooling method, water source, and reuse commitments are increasingly central to data-center review.",
+    "impact": "Water planning",
+    "score": 78
+  },
+  {
+    "id": "acc-large-load",
+    "date": "2026-04-16",
+    "type": "Utility policy",
+    "headline": "ACC large-load workshop establishes grid-planning signal",
+    "summary": "ACC materials frame data centers as large-load users whose integration into the grid requires cost-allocation and resource-planning scrutiny.",
+    "impact": "Power complexity",
+    "score": 92
+  },
+  {
+    "id": "tucson-rules",
+    "date": "2026-05-07",
+    "type": "Local regulation",
+    "headline": "Tucson planning review highlights water, energy, noise, and public-process variables",
+    "summary": "Tucson's draft approach creates a useful model for what data-center transparency could look like in city-level planning.",
+    "impact": "Transparency",
+    "score": 86
+  },
+  {
+    "id": "baccara-approval",
+    "date": "2026-05-06",
+    "type": "Local approval",
+    "headline": "Project Baccara moves through county process despite opposition",
+    "summary": "The West Valley project is a real-time test of how Arizona balances economic development, power generation, environmental concerns, and community response.",
+    "impact": "Community sensitivity",
+    "score": 95
+  }
+]
